@@ -29,6 +29,5 @@ The following **additional** features are implemented:
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-<iframe class="imgur-embed" width="100%" height="1792" frameborder="0" src="https://i.imgur.com/Ig96gwz.gifv#embed"></iframe>
-
+<img src="https://i.imgur.com/Ig96gwz.gif"/>
 
